@@ -1,6 +1,6 @@
 BINANCE = dict(
-    api_key="REMOVED_BINANCE_API_KEY",
-    api_secret="REMOVED_BINANCE_API_SECRET",
+    api_key="*",
+    api_secret="*",
 )
 DATABASE_CONFIG = dict(
     database="postgres",
