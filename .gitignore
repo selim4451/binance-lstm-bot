@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# PyInstaller / build çıktıları
+build/
+dist/
+*.egg-info/
+
+# Ortam ve gizli bilgiler
+.env
+.env.*
+venv/
+.venv/
+secrets*.py
+local_config.py
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
